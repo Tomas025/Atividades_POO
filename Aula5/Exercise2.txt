@@ -1,0 +1,1 @@
+As duas vão compilam sem erro

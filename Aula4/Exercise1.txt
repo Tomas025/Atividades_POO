@@ -1,0 +1,4 @@
+No codigo A, basta declarar uma intância de um objeto e um indice especifico do array.
+Tipo: myBooks[0] = new Books();
+
+O codigo B vai execultar sem problemas

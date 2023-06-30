@@ -1,0 +1,7 @@
+No codigo A não foi instanciada a classe dentro do metodo main, para corrigir eu colocaria o seguinte codigo:
+StreamingSong song = new StreamingSong();
+
+No codigo B, faltou criar o metodo play na class Episode, eu faria da seguinte maneira:
+void play() {
+	System.out.println("Episode started");
+}
